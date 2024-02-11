@@ -47,7 +47,7 @@ To use the Train Reservation System in your Java application, follow these steps
 
 ## Testing
 
-Unit tests for the Train Reservation System are included in the project. To run the tests, execute the following command:
+Unit tests for the Train Reservation System are included in the project. 
 
 
 
