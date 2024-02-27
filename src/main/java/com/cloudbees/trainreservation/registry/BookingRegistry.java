@@ -8,7 +8,7 @@ import com.cloudbees.trainreservation.service.request.ReserveSeatRequest;
 import java.util.*;
 
 /**
- * Utility class for Train Reservation Service
+ * Registry containing information regarding seats
  */
 public class BookingRegistry {
 
