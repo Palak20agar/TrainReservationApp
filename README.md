@@ -8,7 +8,7 @@ The Train Reservation System is a Java application designed to manage seat reser
 - **Booking Receipt**: Users can retrieve booking receipts containing information about their reservations.
 - **Cancellation**: Users can cancel their bookings if needed.
 - **Modification**: Users can modify their existing bookings by changing their seats.
-- **Seat Availability**: The system checks seat availability before making a reservation.
+- **User Seat Mapping**: The system returns the sectionwise mapping of user on a seat.
 
 ## Installation
 
